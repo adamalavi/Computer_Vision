@@ -1,4 +1,4 @@
-# Computer_Vision
+# Computer Vision ND
 This repository includes three projects that use basic concepts of computer vision and deep neural networks. 
 
 ### Facial keypoints detection
